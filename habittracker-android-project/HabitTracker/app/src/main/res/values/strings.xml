@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">习惯打卡</string>
+    <string name="add_habit">添加习惯</string>
+    <string name="habit_name">习惯名称</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="today">今天</string>
+    <string name="streak">连续</string>
+    <string name="days">天</string>
+    <string name="completion_rate">完成率</string>
+    <string name="no_habits">还没有习惯，快添加一个吧！</string>
+    <string name="reminder_title">习惯提醒</string>
+    <string name="reminder_text">该打卡啦！</string>
+    <string name="set_reminder">设置提醒</string>
+    <string name="reminder_time">提醒时间</string>
+</resources>
